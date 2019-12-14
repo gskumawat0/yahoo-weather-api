@@ -1,0 +1,28 @@
+{
+	"env": {
+		"browser": true,
+		"commonjs": true,
+		"es6": true
+	},
+	"extends": ["airbnb-base", "plugin:node/recommended", "prettier"],
+	"globals": {
+		"Atomics": "readonly",
+		"SharedArrayBuffer": "readonly"
+	},
+	"parserOptions": {
+		"ecmaVersion": 2018
+	},
+	"rules": {
+		"prettier/prettier": "warn",
+		"no-unused-vars": "error",
+		"func-names": "off",
+		"object-shorthand": "off",
+		"no-use-before-define": "off",
+		"no-console": "warn",
+		"no-else-return": "warn",
+		"no-underscore-dangle": "off",
+		"prefer-const": "off",
+		"consistent-return": "warn",
+		"no-plusplus": "off"
+	}
+}
