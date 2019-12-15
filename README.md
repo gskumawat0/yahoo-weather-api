@@ -1,4 +1,4 @@
-# Taxi Booking
+# Yahoo Weather Api
 
 api for yahoo weather app. you can access this api at https://yahoo-weather.herokuapp.com
 
