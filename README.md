@@ -1,6 +1,6 @@
 # Yahoo Weather Api
 
-api for yahoo weather app. you can access this api at https://yahoo-weather.herokuapp.com
+api for yahoo weather app. you can access this api at https://yahoo-weather-server.herokuapp.com/
 
 # Prerequistics
 
@@ -9,7 +9,7 @@ api for yahoo weather app. you can access this api at https://yahoo-weather.hero
 
 # Installing and Running
 
-1. clone this repo `git clone https://github.com/gskumawat0/yahoo-weather-server`
+1. clone this repo `git clone https://github.com/gskumawat0/yahoo-weather-api`
 1. install npm packages `npm install`
 1. create a `nodemon.json` file as given below:
 
